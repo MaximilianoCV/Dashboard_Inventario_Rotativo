@@ -1,4 +1,4 @@
-# 📊 Dashboard Logística (Prog. & Plan.) - Power BI
+# 📊 Dashboard Inventario Rotativo - Power BI
 
 Este repositorio contiene un ejemplo real de implementación de un dashboard de Power BI conectado a SQL Server, orientado al análisis de indicadores y herramientas enfocadas a la Programación y Planeación de la Demanda en entornos industriales.
 
