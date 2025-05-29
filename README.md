@@ -1,6 +1,6 @@
 # 📊 Dashboard Inventario Rotativo - Power BI
 
-Este repositorio contiene un ejemplo real de implementación de un dashboard de Power BI conectado a SQL Server, orientado al análisis de indicadores y herramientas enfocadas a la Programación y Planeación de la Demanda en entornos industriales.
+Este repositorio contiene un ejemplo real de implementación de un dashboard de Power BI conectado a SQL Server, orientado al análisis de indicadores y herramientas enfocadas a la Distribución y Almacen en entornos industriales.
 
 El repositorio actual contiene código, fórmulas e información que aplican a 3 tableros:
 1. Logística (Prog. & Plan.)
@@ -15,7 +15,7 @@ El tablero "Logística (Prog. & Plan.)" es el global que contiene toda la inform
 
 ## 📌 Objetivo
 
-Clarificar y establecer las directrices para el uso adecuado del tablero de PowerBI “Logística (Prog. & Plan.)” con el fin de garantizar una visualización clara, oportuna y confiable de los datos para contribuir a una toma de decisiones basada en información precisa y actualizada que contribuya a la mejora continua de los procesos logísticos.
+Clarificar y establecer las directrices para el uso adecuado del tablero de PowerBI “Inventario Rotativo” con el fin de garantizar una visualización clara, oportuna y confiable de los datos para contribuir a una toma de decisiones basada en información precisa y actualizada que contribuya a la mejora continua de los procesos logísticos.
 
 ---
 
@@ -34,12 +34,12 @@ Clarificar y establecer las directrices para el uso adecuado del tablero de Powe
 PowerBI-OEE-Coflex/
 ├── pbix/                                   → Archivo PBIX del tablero
 ├── docs/
-│   ├── README.md                           → Descripción general del repositorio
-│   ├── Medidas.md                          → Medidas DAX documentadas
-│   ├── Columnas_Calculadas.md              → DAX documentadas
-│   ├── Tablas_Catalogo.md                   → DAX documentadas
-│   ├── Instructivo Dashboard OEE.docx      → Guía de uso del dashboard
-│   └── Modelo_Tablero.md                   → Qué mide y cómo funciona
+│   ├── README.md                                           → Descripción general del repositorio
+│   ├── Medidas.md                                          → Medidas DAX documentadas
+│   ├── Columnas_Calculadas.md                              → DAX documentadas
+│   ├── Tablas_Catalogo.md                                  → DAX documentadas
+│   ├── Instructivo Dashboard Inventario Rotativo.docx      → Guía de uso del dashboard
+│   └── Modelo_Tablero.md                                   → Qué mide y cómo funciona
 ├── sql/ 
 │   └── consulta_fuente_OEE.sql             → Consulta SQL base
 ├── img/
@@ -59,7 +59,7 @@ PowerBI-OEE-Coflex/
 ## 📎 Cómo utilizarlo
 
 1. Clona este repositorio.
-2. Abre el archivo `pbix/Logística_(Prog._&_Plan.).pbix` con Power BI Desktop.
+2. Abre el archivo `pbix/Inventario Rotativo.pbix` con Power BI Desktop.
 3. Conecta tu fuente de datos o consulta en SQL Server y Excel.
 4. Revisa la documentación en `/docs` para entender cada fórmula y estructura.
 
