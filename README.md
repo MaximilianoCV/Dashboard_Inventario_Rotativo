@@ -2,14 +2,6 @@
 
 Este repositorio contiene un ejemplo real de implementación de un dashboard de Power BI conectado a SQL Server, orientado al análisis de indicadores y herramientas enfocadas a la Distribución y Almacen en entornos industriales.
 
-El repositorio actual contiene código, fórmulas e información que aplican a 3 tableros:
-1. Logística (Prog. & Plan.)
-2. Ventas & Logística
-3. Distribución & Logística
-
-La diferencia entre estos tableros es únicamente la información desplegada correspondientes a las áreas que tienen acceso al tablero, pues el modelo semántico es el mismo para los 3 dashboards.
-
-El tablero "Logística (Prog. & Plan.)" es el global que contiene toda la información, mientras que los otros dos son para áreas respectivas.
 
 ---
 
